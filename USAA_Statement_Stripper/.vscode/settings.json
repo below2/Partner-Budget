@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "opencsv-5.8.jar",
+        "pdfbox-app-3.0.0.jar"
+    ]
+}
